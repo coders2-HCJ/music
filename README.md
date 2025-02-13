@@ -1,2 +1,2 @@
-# music
+# Music
 my edm
